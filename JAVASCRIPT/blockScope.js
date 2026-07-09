@@ -30,3 +30,4 @@ console.log(b); // 10
 
 // same for const 
 
+
